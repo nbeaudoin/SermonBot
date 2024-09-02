@@ -1,2 +1,0 @@
-This is a test
-# Create a logistic regression pipeling in sklearn
